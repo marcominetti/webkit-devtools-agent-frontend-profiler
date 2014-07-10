@@ -1,4 +1,6 @@
 {
+  "name": "webkit-devtools-agent-frontend-profiler",
+  "version": "0.0.4",
   "dependencies": {
     "dish": "*",
     "underscore": "*"
